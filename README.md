@@ -3,7 +3,8 @@
 **InjectLab** is a modular command-line injection framework designed for learning.  
 It lets you inject content into files using a flexible **core + extension** model.  
 
-<img width="1024" height="1024" alt="Injectlab-badg" src="https://github.com/user-attachments/assets/906bfd3f-706d-4bb5-a514-e761edbd1258" />
+
+<img width="953" height="414" alt="Injectlab-badg(ZOOM)" src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" />
 
 Whether you’re exploring **red-team payloads** or **blue-team defenses**, InjectLab gives you a safe environment to understand how injection works, how malicious activities are built, and how they can be detected or defended against.  
 
