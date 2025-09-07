@@ -25,3 +25,40 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/injectlab.git
 cd injectlab
+
+
+🛠 Usage:
+injectlab <file> <extension>
+```
+---
+
+## ⚔️ Red vs Blue
+
+🔴 Red: Learn how attackers hide, evade, and deliver payloads.
+
+🔵 Blue: Learn how defenders can scan, detect, and respond.
+
+InjectLab helps you see both sides.
+
+---
+
+## 📖 Learning Focus
+
+InjectLab is not a weapon.
+It’s an educational framework designed to help you:
+
+Understand how injection works
+
+Build your own extensions
+
+Detect malicious patterns
+
+Train red & blue skills in one place
+
+---
+
+## ⚖️ Disclaimer
+
+InjectLab is for educational purposes only.
+Do not use this project for unauthorized access, exploitation, or harm.
+The authors are not responsible for misuse.
