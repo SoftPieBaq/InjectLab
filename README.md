@@ -4,7 +4,9 @@
 It lets you inject content into files using a flexible **core + extension** model.  
 
 
-<img width="953" height="414" alt="Injectlab-badg(ZOOM)" src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" />
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="300"/>
+</p>
 
 Whether you’re exploring **red-team payloads** or **blue-team defenses**, InjectLab gives you a safe environment to understand how injection works, how malicious activities are built, and how they can be detected or defended against.  
 
