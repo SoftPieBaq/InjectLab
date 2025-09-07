@@ -3,7 +3,7 @@
 **InjectLab** is a modular command-line injection framework designed for learning.  
 It lets you inject content into files using a flexible **core + extension** model.  
 
-[![Injectlab Badge](https://example.com/injectlab-badge.png)](https://github.com/SoftPieBaq/InjectLab)
+[![Injectlab Badge](<img width="1024" height="1024" alt="Injectlab-badg" src="https://github.com/user-attachments/assets/b21bb06e-bb64-4388-b078-5af84becd49e" />)](https://github.com/SoftPieBaq/InjectLab)
 
 Whether you’re exploring **red-team payloads** or **blue-team defenses**, InjectLab gives you a safe environment to understand how injection works, how malicious activities are built, and how they can be detected or defended against.  
 
