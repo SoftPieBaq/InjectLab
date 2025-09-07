@@ -1,7 +1,9 @@
 # InjectLab 🔬
 <p align="center">
+  <h1>InjectLab 🔬</h1>
   <img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="300"/>
 </p>
+
 **InjectLab** is a modular command-line injection framework designed for learning.  
 It lets you inject content into files using a flexible **core + extension** model.  
 
