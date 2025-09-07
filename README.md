@@ -25,9 +25,9 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/injectlab.git
 cd injectlab
-
-
+```
 🛠 Usage:
+```bash
 injectlab <file> <extension>
 ```
 ---
