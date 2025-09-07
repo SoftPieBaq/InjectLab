@@ -1,13 +1,8 @@
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <h1>InjectLab 🔬</h1>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="300"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1 style="margin: 0;">InjectLab 🔬</h1>
+  <img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="200"/>
+</div>
+
 
 
 **InjectLab** is a modular command-line injection framework designed for learning.  
