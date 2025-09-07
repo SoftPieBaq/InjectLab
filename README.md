@@ -23,7 +23,7 @@ Whether you’re exploring **red-team payloads** or **blue-team defenses**, Inje
 ## 📦 Installation
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/injectlab.git
+git clone https://github.com/SoftPieBaq/InjectLab.git
 cd injectlab
 ```
 🛠 Usage:
@@ -47,13 +47,13 @@ InjectLab helps you see both sides.
 InjectLab is not a weapon.
 It’s an educational framework designed to help you:
 
-Understand how injection works
+* Understand how injection works
 
-Build your own extensions
+* Build your own extensions
 
-Detect malicious patterns
+* Detect malicious patterns
 
-Train red & blue skills in one place
+* Train red & blue skills in one place
 
 ---
 
