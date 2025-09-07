@@ -1,7 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <h1 style="margin: 0;">InjectLab 🔬</h1>
-  <img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="200"/>
-</div>
+<table>
+  <tr>
+    <td><h1>InjectLab 🔬</h1></td>
+    <td><img src="https://github.com/user-attachments/assets/2bd4296f-07a5-4516-b264-8552740231fc" alt="Injectlab Badge" width="150"/></td>
+  </tr>
+</table>
 
 
 
